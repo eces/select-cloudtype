@@ -1,0 +1,18 @@
+pages:
+- path: users/active
+  blocks: 
+  - type: markdown
+    content: >
+      ## 7일 가입자 조회
+    
+- path: users/dormant
+  blocks:
+  - type: markdown
+    content: >
+      ## 휴면회원 조회
+    
+- path: users/promotion
+  blocks:
+  - type: markdown
+    content: >
+      ## 동의/미동의 조회
