@@ -3,6 +3,6 @@
     "start": "npx slt"
   },
   "dependencies": {
-    "selectfromuser": "^2.2.5"
+    "selectfromuser": "^2.2.6"
   }
 }
